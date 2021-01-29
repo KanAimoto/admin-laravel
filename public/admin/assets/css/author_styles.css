@@ -1,0 +1,161 @@
+.tag {
+	position: relative;
+	background: #00a2e8;
+	color: white;
+	margin: 3px 7px;
+	padding: 0 15px;
+	border-radius: 15px;
+	display: inline-block;
+}
+.tag p {
+	margin: 0;
+	font-size: 15px;
+    line-height: 1.6;
+}
+.inthis {
+	text-align: center;
+}
+.buttons-tags {
+	display: inline-block;
+	margin: 0 40px;
+	cursor: pointer;
+}
+.add-tag {
+	position: relative;
+	background: #11cc11;
+	color: #fff;
+	padding: 0 10px;
+	border-radius: 15px;
+}
+.add-tag:active {
+	background: green;
+}
+.edit-tags {
+	position: relative;
+	background: #ffdf00; 
+	color: black;
+	padding: 0 10px;
+	border-radius: 15px;	
+}
+.edit-tags:active {
+	background: #f5d705;
+}
+.remove-tags {
+	position: relative;
+	background: #ff3636;
+	color: #fff;
+	padding: 0 10px;
+	border-radius: 15px;
+}
+.remove-tags:active {
+	background: #b91010;
+}
+.black-line {
+	background: #e0e0e0;
+	height: 2px;
+	position: relative;
+	margin: 15px 15px;
+}
+.breadcrumb {
+	background: #c5c5c5 !important;
+	display: inline-block !important;
+	border-radius: 5px 5px 0 0 !important;
+	top: 6px;
+	padding: 0 10px !important;
+    left: 5px;
+    position: relative;
+}
+.alphabet-card {
+	background: #dad7d7;
+	width: 300px;
+	margin: 0 auto;
+	border-radius: 10px;
+}
+.four_columns{
+	columns: 4;
+}
+.main-letter {
+	font-size: 30px;
+	position: relative;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+.remove-btn {
+	margin-left: 10px;
+}
+.nav-add-products {
+	width: 200px !important;
+}
+.add-product {
+	position: relative;
+	left: 3px;
+	font-size: 25px;
+}
+a.nav-link.add_products {
+	width: 60px;
+    top: -5px;
+    margin: 5px 0 15px 12px !important;
+    height: 51px;
+    left: 179px;
+    position: absolute;
+}
+.round-submit,
+.round-remove {
+	border-radius: 25px !important;
+}
+.round-remove{
+	margin-left: 15px !important;
+}
+.download-btn {
+	margin: 10px 0 0 0;
+	padding: 2px 7px !important;
+}
+.new-img {
+    position: relative;
+    width: 110px;
+    max-height: 100%;
+    top: -30px;
+}
+.illusion {
+    position: absolute;
+    display: inline-block;
+    top: 82px;
+}
+.edit-btn {
+	background: #f7f7f8;
+	border: 2px solid #efc018;
+	padding: 5px 10px;
+	border-radius: 25px;
+}
+.edit-btn:hover {
+	background: #efc018;
+	color: #000 !important;
+}
+.delete-btn {
+	background: #f7f7f8;
+	border: 2px solid red;
+	margin-left: 25px; 
+	padding: 5px 10px;
+	border-radius: 25px;
+}
+.delete-btn:hover {
+	background: red;
+	color: #000 !important;
+}
+.circle-price {
+	   border-radius: 100%;
+    color: #997840;
+    background: #fff;
+    display: block;
+    font-size: 14px;
+    font-weight: bold;
+    height: 58px;
+    line-height: 55px;
+    position: absolute;
+    right: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    top: 10px;
+    width: 58px;
+    z-index: 100;
+}
